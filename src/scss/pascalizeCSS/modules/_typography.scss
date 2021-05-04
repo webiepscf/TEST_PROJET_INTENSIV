@@ -1,0 +1,13 @@
+// ./modules/_typography 
+
+body {
+    font-family: $typography_font_1;
+    font-size:   $typography_font_size;
+    color:       $typography_color;
+}  
+
+
+h1, .h1 {
+    font-family: $typography_font_2;
+    font-size: 2rem;
+}
